@@ -1,0 +1,40 @@
+
+.startwar::before{
+    content: "";
+    position: absolute;
+    top: 0; left: 0;
+  width: 100%; height: 130vh;
+  background-image: url('/ww2begin.jpg');
+  filter: brightness(50%);
+
+}
+
+.midwar::before{
+    background-image:  url('/wwiiparis.jpg');
+    filter: brightness(50%);
+    content: "";
+    position: absolute;
+    top: 0; left: 0;
+  width: 100%; height: 130vh;
+  text-align: center;
+
+}
+.endwar::before{
+    background-image:  url('/ww2end.jpg');
+    filter: brightness(50%);
+    content: "";
+    position: absolute;
+    top: 0; left: 0;
+  width: 100%; height: 130vh;
+  text-align: center;
+
+}
+.button-time{
+  transition-duration: 150ms;
+}
+
+.button-time:hover{
+  color: #005EB8;
+  text-decoration: underline;
+  cursor: pointer;
+}

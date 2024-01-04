@@ -1,0 +1,121 @@
+[
+    [{
+        "type": "heading",
+        "EN": "SUPPORT AND CONTRIBUTORS",
+        "FR": "SOUTIENS ET CONTRIBUTIONS"
+
+    }],
+    [
+        {
+            "type": "bullet",
+            "EN": [
+                "The Price Lab for Digital Humanities",
+                "The Penn Language Center",
+                "The Penn Center for Teaching and Learning",
+                "Laurie Allen (Library of Congress)",
+                "Peter Decherney (Penn Online Learning Initiative and Cinema and Media Studies)",
+                "Scott Enderle (Penn Libraries)",
+                "Cassidy Holohan (Ph.D. Candidate in the English Department)",
+                "Cassandra Hradil (Price Lab for Digital Humanities)",
+                "Vickie Karasic (Bryn Mawr College)",
+                "Samantha Kirk (Drexel University)",
+                "Wes Martin (Vitale Lab, Penn Libraries)",
+                "Meaghan Moody (U. of Rochester)",
+                "Ian Petrie (Penn Center for Teaching and Learning)",
+                "Sasha Renninger (S.A.S. Computing)",
+                "Coral Salomón",
+                "Chava Spivak-Birndorf (Drexel University)",
+                "David Toccafondi (Vitale Lab, Penn Libraries)",
+                "Chris Vandergrift (Vitale Lab, Penn Libraries)",
+                "Stewart Varner (Price Lab for Digital Humanities)",
+                "Kenneth Whitebloom (Swarthmore U.)",
+                "Last but not least, all the survivors who kindly entrusted us with their stories and were always willing to talk with us."
+            ],
+            "FR": [
+                "The Price Lab for Digital Humanities",
+                "The Penn Language Center",
+                "The Penn Center for Teaching and Learning",
+                "The Penn Libraries",
+                "Laurie Allen (Library of Congress)",
+                "Peter Decherney (Penn Online Learning Initiative and Cinema and Media Studies)",
+                "Scott Enderle (Penn Libraries)",
+                "Cassidy Holohan (Ph.D. Candidate in the English Department)",
+                "Cassandra Hradil (Price Lab for Digital Humanities)",
+                "Vickie Karasic (Bryn Mawr College)",
+                "Samantha Kirk (Drexel University)",
+                "Wes Martin (Vitale Lab, Penn Libraries)",
+                "Meaghan Moody (U. of Rochester)",
+                "Ian Petrie (Penn Center for Teaching and Learning)",
+                "Sasha Renninger (S.A.S. Computing)",
+                "Coral Salomón",
+                "Chava Spivak-Birndorf (Drexel University)",
+                "David Toccafondi (Vitale Lab, Penn Libraries)",
+                "Chris Vandergrift (Vitale Lab, Penn Libraries)",
+                "Stewart Varner (Price Lab for Digital Humanities)",
+                "Kenneth Whitebloom (Swarthmore U.)",
+                "Et sans oublier tous les témoins qui ont eu la générosité de nous confier leurs histoires"
+
+            ]
+        }
+    ], [
+        {
+            "type": "heading",
+            "EN": "UNDERGRADUATE WORK-STUDIES",
+            "FR": "ASSISTANT.E.S DU PREMIER CYCLE"
+        }
+    ], [
+        {
+            "type": "text",
+            "EN": "Map and Research:",
+            "FR": "Recherches et cartographie numérique:"
+        }
+    ], [
+        {
+            "type": "bullet",
+            "EN": [
+                "Kyra Schulman (’19)"
+            ],
+            "FR": [
+                "Kyra Schulman (’19)"
+            ]
+        }
+    ], [
+        {
+            "type": "text",
+            "EN": "Trancriptions:",
+            "FR": "Trancriptions:"
+        }
+    ], [ 
+        {
+            "type": "bullet",
+            "EN": [
+                "Beverlye Gedeon (’21)",
+                "Leanore Petermeijer (’20)",
+                "Chloë Reum (’19)"
+            ],
+            "FR": [
+                "Beverlye Gedeon (’21)",
+                "Leanore Petermeijer (’20)",
+                "Chloë Reum (’19)"
+            ]
+        }
+    ], [
+        {
+            "type": "text",
+            "EN": "Website:",
+            "FR": "Site Web:"
+        }
+    ], [
+        {
+            "type": "bullet",
+            "EN": ["Anyelina Wu (’22)"],
+            "FR": ["Anyelina Wu (’22)"]
+        }
+    ], [
+        {
+            "type": "text",
+            "EN": "And the students of FRENCH 225 from 2016 to today",
+            "FR": "ainsi que tous les étudiants du cours FRENCH 225 depuis 2016"
+        }
+    ]
+]

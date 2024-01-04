@@ -1,0 +1,120 @@
+.a{
+    position:absolute;
+    top:0px;
+    left:0px;
+    transition-duration: 500ms;
+    transition: all;
+}
+
+.b{
+    position:absolute;
+    top:0px;
+    left:105%;
+    transition-duration: 500ms;
+    transition: all;
+}
+
+.corr{
+    perspective: 2000px;
+    transition-duration: 1000ms;
+
+}
+
+.corr:hover{
+    z-index: 0;
+
+
+    .front{
+        transform: rotateY(180deg);
+        opacity: 0;
+    }
+    .back{
+        transform: rotateY(360deg); 
+        display:block;
+        z-index:10;
+        opacity: 100;
+    }
+    .te{
+        transform: rotateY(360deg); 
+        display:block;
+        opacity: 100;
+        /*z-index: 1000; */
+        background-image: url('/parchment.jpg') ;
+        background-size: cover;
+        visibility: visible;
+    }
+    .addrs{
+        transform: rotateY(180deg);
+        opacity: 0;
+        background-image: url('/parchment.jpg') ;
+        background-size: cover;
+
+    }
+}
+.front{
+    z-index: 5;
+    transition-duration: 1000ms;
+    transform-origin: left;
+    opacity: 100;
+}
+.back{
+    z-index:0;
+    transition-duration: 1000ms;
+    transform-origin: left;
+    opacity: 0;
+    transform: rotateY(180deg); 
+
+}
+.te{
+    z-index:1000;
+    transition-duration: 1000ms;
+    opacity: 0;
+    transform: rotateY(180deg);
+    background-image: url('/parchment.jpg') ;
+    background-size: cover;
+    visibility: hidden;
+
+
+
+}
+.addrs{
+    z-index: -1;
+    transition-duration: 1000ms;
+    transform-origin: left;
+    opacity: 100;
+    background-image: url('/parchment.jpg') ;
+    background-size: cover;
+
+}
+
+
+@media (max-width: 640px){
+    .b{
+        left:0px;
+    }
+    .a, .b{
+        position:relative;
+    }
+    .back{
+        opacity:100;
+        transform: rotateY(0deg);
+    }
+    .te{
+        visibility: visible;
+        opacity:100;
+        transform:rotateY(0deg);
+    }
+    .corr:hover{
+        .front, .back, .te, .addrs{
+            opacity: 1;
+            transform: rotateY(0deg);
+            visibility: visible;
+        }
+
+    }
+
+
+}
+
+
+

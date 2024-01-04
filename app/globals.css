@@ -1,0 +1,696 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+@font-face {
+  font-family: 'Chomsky';
+  src: url('/Chomsky.woff') format('truetype');
+  /* Add additional font formats for better compatibility */
+}
+
+.blog{
+  transform: translateZ(-900px) scale(1.9);
+}
+
+.h::before{
+  top:4px;
+  left: -6px;
+  position: relative;
+
+  background-image: url("https://clipart-library.com/images/kc8ngxpji.png");
+  background-size: contain;
+  display: inline-block;
+  width: 15px; 
+  height: 17px;
+  content:"";
+
+}
+
+.l{
+  perspective: 1000px;
+}
+.f{
+  transform:translateZ(-300px);
+}
+
+.t{
+
+  img{
+    border-radius: 20px;
+  }
+
+   
+  
+}
+
+.time{
+  background-image: url('/timeback.jpg') ;
+  background-size: cover;
+}
+.new-cont{
+  perspective: 1000px;
+  top:60%;
+  position:relative;
+  height:100%;
+  margin-bottom:25vh
+}
+
+.out0{
+
+}
+
+.out1{
+  height:100vh;
+  overflow: hidden;
+}
+.out2{
+  perspective: 1000px;
+  transform-style: preserve-3d;
+  overflow-x: hidden;
+  /*overflow-y: scroll;*/
+  height:100%;
+}
+
+.section1, .section2{
+  width: 100%;
+  min-height:100%;
+  position:relative;
+  transform-style:preserve-3d;
+}
+.section2{
+  background: rgb(68, 35, 19);
+}
+
+.text{
+  top: 30%;
+  left: 50%;
+  position:absolute;
+  font-size: 15vw;
+  color: black;
+  transform: scale(1, 1, 1) translate(-50%, -10%)
+}
+
+.section1 .text{
+  transform: translateZ(-0.5px) scale(1.5,1.6) translate(-33%, 10%) rotateY(2deg);
+}
+
+
+.comb{
+  perspective: 3000px;
+  transform: translateZ(-500px) scale(1.5);
+  transform-style: preserve-3d;
+  width: 100%;
+  min-height:100%;
+  position:relative;
+  display: flex;
+  top:160px;
+  transform:all;
+  transition-duration: 500ms;
+
+
+}
+
+.comb-2{
+  perspective: 3000px;
+  transform: translateZ(-500px) scale(1.5);
+  transform-style: preserve-3d;
+  width: 100%;
+  position:relative;
+  display: flex;
+  top:130%;
+
+}
+.wall-3{
+  transform:translateZ(500px) scale(0.5) translateY(-50%);
+
+}
+
+.wrap{
+  padding: 0;
+    margin: 0;
+    line-height: 0;
+    -webkit-column-count: 4;
+    -webkit-column-gap: 0;
+    -moz-column-count: 4;
+    -moz-column-gap: 0;
+    column-count: 4;
+    column-gap: 0;
+
+}
+
+.cont-1{
+  /*transform: translateZ(200px) translateY(-50px) scale(0.9);
+  z-index:-5;
+  height:100%;
+  position:relative;*/
+
+  .inner-cont{
+   /* height:122%;
+    background:white;
+    width:80%;
+    left:10%;
+    position:relative;*/
+    perspective: 1000px;
+
+  }
+
+ 
+}
+.tablet_3d{
+  transform:rotateX(30deg);
+  transition:all ease;
+  transition-duration:500ms;
+}
+
+.tablet_2d{
+  scale:0.75;
+  transition:all ease;
+  transition-duration:500ms;
+  transform:rotateX(0deg) translateY(20px);
+
+}
+.tablet:hover{
+  transform:rotateX(0deg)  translateY(20px);
+  
+}
+
+
+.tablet {
+  transition:all ease;
+  transition-duration:500ms;
+  scale: 0.75;
+  display: flex;
+  background: #0c0c0c;
+  border-radius: 37px;
+  border: 2px solid #3a3a3a;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  box-shadow: 
+    1px 7px 19px #00000061, 
+    1px 14px 38px #00000080,
+    inset 0 0 4px rgba(255, 255, 255, 0.58);
+  overflow: hidden;
+    height: 700px;
+    max-width: 1000px;
+    
+    
+  }
+
+  .screen{
+    height: 92%;
+    width: 95%;
+    border-radius: 15px;
+    background-color: #1b1b1b;
+    background-size: cover;
+    background-position: center;
+    z-index: 2;
+    overflow: hidden;
+  }
+
+
+/*
+.comb:hover{
+  /*transform: translateZ(0px) scale(1);
+  .wall-1, .wall-2{
+    background-color: white;
+    transform: rotateY(0deg);
+    box-shadow: none;
+    z-index:5;
+  }
+
+}*/
+
+.wall-1-2d, .wall-2-2d{
+  background-color: transparent;
+  transform: rotateY(0deg);
+  box-shadow: none;
+  z-index:5;
+
+}
+
+.wall-1-all{
+  transition:all;
+  transition-duration:500ms;
+  position: relative;
+  left:15px;
+  display:inherit;
+}
+
+.wall-2-all{
+  transition:all;
+  transition-duration:500ms;
+  flex:2;
+  position:relative;
+  right:20px;
+
+}
+
+
+
+.par{
+  perspective: 1px;
+}
+
+
+.wall-1{
+  transform:rotateY(20deg);
+  box-shadow: 0 0 25px rgba(0,0,0,0.3) inset;
+  z-index: -1;
+  
+}
+
+.wall-2{
+  transform:rotateY(-20deg);
+  
+  box-shadow: 0 0 25px rgba(0,0,0,0.3) inset;
+  z-index: -1;
+
+}
+
+
+.wall1{
+  z-index: -1;
+  flex:1;
+  position: relative;
+  display:inherit;
+  transition:all;
+  transition-duration: 500ms;
+ 
+}
+.wall2{
+  z-index: -1;
+  flex:1;
+  position: relative;
+  display:inherit;
+  transition:all;
+  transition-duration: 500ms;
+}
+
+.wall1-2d{
+  transform: rotateY(0deg) scale(1.2);
+  background-color: transparent;
+
+
+}
+.wall1-3d{
+  transform:rotateY(45deg) scale(1.5);
+  box-shadow: 0 0 25px rgba(0,0,0,0.3) inset;
+
+
+
+}
+.wall2-2d{
+  transform: rotateY(0deg) scale(1.2);
+  background-color: transparent;
+
+}
+.wall2-3d{
+  transform:rotateY(-45deg) scale(1.5);
+  box-shadow: 0 0 25px rgba(0,0,0,0.3) inset;
+
+}
+
+.biography{
+  perspective: 1000px;
+}
+#monitor{
+  transform: scale(0.9);
+
+}
+
+
+.cont-2{
+  z-index:10;
+  position:relative;
+  top:180vh;
+}
+
+body
+{
+    font-family: 'Helvetica Neue', 'Arial', sans-serif;
+}
+.blue-button:hover{
+  color: #005EB8;
+}
+@layer components{
+  .button{
+    @apply text-sm md:text-base flex-1
+     hover:text-[#005EB8] transition-all duration-150 
+     ease-out cursor-pointer hover:border-b-[6px] hover:border-t-[6px] text-black border-[#005EB8] px-5 hover:underline
+  }
+}
+
+@layer components{
+  .button-2{
+    @apply text-sm md:text-base flex-1
+     hover:text-[#005EB8] transition-all duration-150 
+     ease-out cursor-pointer  text-black hover:underline
+  }
+}
+
+@layer components {
+  .nav-button{
+    @apply hover:text-white hover:underline text-sm py-2 px-5 rounded-full hover:bg-gray-500 inline  transition duration-500 cursor-pointer justify-center 
+  }
+}
+
+@layer components {
+  .nav-select{
+    @apply text-white underline text-sm py-2 px-5 rounded-full bg-black inline cursor-pointer
+  }
+}
+
+.thewall{
+  background-image:  url('/wallpaper2.jpg');
+}
+
+.book{
+  display:inline-block;
+  position:relative;
+  box-shadow: inset 300px 0 50px rgba(0,0,0,.5), 20px 0 60px rgba(0,0,0,.5);
+  perspective: 1500px;
+  z-index: 10;
+}
+
+.book:before{
+  content:'';
+	position: absolute;
+	top: -5px;
+	left: 0;
+	width: 100%;
+	height: 5px;
+  background:#dadedb;
+	/*background: #b1b9b4;*/
+	transform-origin: bottom;
+  transform-origin: bottom;
+	transform: skewX(-45deg);
+
+
+}
+.book:after{
+  content: '';
+	position: absolute;
+	top: 0;
+	right: -5px;
+	width: 5px;
+	height: 100%;
+  background: #b1b9b4;
+	/*background: #939e98;*/
+	transform-origin: left;
+  transform-origin: left;
+	transform: skewY(-45deg);
+  z-index: 10;
+
+}
+
+.book:hover .cover {
+	transform: rotateY(-110deg);
+  opacity: 1;
+  filter: brightness(80%);
+	transition: .6s;
+
+  box-shadow: 300px 200px 100px rgba(0, 0, 0, .4) inset;
+}
+.book .cover {
+	width: 100%;
+	height: 100%;
+	position: relative;
+	transform-origin: left;
+	transition: .7s;
+}
+
+/*Book: https://codepen.io/rikanutyy/pen/PEJBxX */
+
+
+/*Shelf: https://codepen.io/ekfuhrmann/pen/OJmRVPj */
+.shelf{
+  display: flex;
+  justify-content: center;
+  flex-shrink: 0;
+  z-index: 5;
+  position: relative;
+  height: 0px;
+  box-sizing: border-box;
+  border-bottom: 16px solid #f3f3f3;
+  border-left: 20px solid transparent;
+  border-right: 20px solid transparent;
+}
+
+.shelf:before{
+  content: "";
+  position: absolute;
+  top: 16px;
+  background: linear-gradient(90deg, #fafafa 0%, #ffffff 100%);
+  height: 26px;
+  width: calc(100% + 40px);
+  box-shadow: 0px -1px 6px rgba(0, 0, 0, 0.05),
+    0px 4px 16px rgba(0, 0, 0, 0.25);
+  z-index: 8;
+
+
+}
+.shelf:after {
+  content: "";
+  height: 80px;
+  width: calc(100% + 40px);
+  position: absolute;
+  top: 42px;
+  display: block;
+  background: linear-gradient(
+    180deg, #000000 -30%,
+   /* #f3f3f3 0%*/
+    rgba(255, 255, 255, 0) 100%
+  );
+  clip-path: polygon(0% 0%, 100% 0%, 97% 100%, 3% 100%);
+  z-index: 5;
+}
+
+.hang{
+  transform-origin: center -20px;
+  animation: swing 2s ease-in-out alternate infinite;
+  
+      
+}
+
+@keyframes swing {
+  0%{
+      transform: rotate(-3deg)
+  }
+  100%{
+      transform: rotate(3deg)
+  }
+}
+.hang::before{
+    position:absolute;
+    content:'';
+    width:10px;
+    height:10px;
+    background-color: black;
+    top:-40px;
+    left:50%;
+    border-radius: 50%;
+}
+.hang::after{
+    position:absolute;
+    content:'';
+    width:8px;
+    height:180px;
+    border:1px solid black;
+    top:-35px;
+    left:50%;
+    z-index:-1
+}
+/*https://github.com/surya-joe/myWork/blob/master/templates/52HangImage.html */
+
+html{
+  scroll-behavior: smooth;
+
+}
+
+/*https://codepen.io/cantcodeforsh1te/pen/GRNVoZr */
+
+
+
+
+  /*https://codepen.io/englishfarsi/pen/abzymqy*/
+
+  
+  
+  
+  #monitor {
+    background: #000; 
+    position: relative;
+    border-top: 3px solid #888; 
+    padding: 1% 1% 2% 1%; 
+    border-radius: 10px; 
+    border-bottom-left-radius: 50% 2%; 
+    border-bottom-right-radius: 50% 2%; 
+    transition: margin-right 1s;
+  }
+  
+  #monitor:after {
+    content: '';
+    display: block;
+    position: absolute;
+    bottom: 1.5%;
+    left: 36%;
+    height: .5%; 
+    width: 28%;
+    background: #ddd; 
+    border-radius: 50%; 
+    box-shadow: 0 0 3px 0 white; 
+  }
+  
+  #monitorscreen {
+    position: relative;
+    background-color: #777;
+    background-size: cover; 
+    background-position: top center;
+    height: 50vw; 
+    position: relative;
+    overflow: hidden;
+  }
+  
+  
+  @media all and (min-width: 960px) {
+    #monitor {
+      -webkit-animation: tvflicker .2s infinite alternate; 
+      -moz-animation:    tvflicker .5s infinite alternate; 
+      -o-animation:      tvflicker .5s infinite alternate; 
+      animation:         tvflicker .5s infinite alternate; 
+    }
+  
+    @-webkit-keyframes tvflicker {
+      0%   { box-shadow: 0 0 100px 0 rgba(200,235,255,0.4); }
+      100% { box-shadow: 0 0 95px 0 rgba(200,230,255,0.45); }
+    }
+    @-moz-keyframes tvflicker {
+      0%   { box-shadow: 0 0 100px 0 rgba(225,235,255,0.4); }
+      100% { box-shadow: 0 0 60px 0 rgba(200,220,255,0.6); }
+    }
+    @-o-keyframes tvflicker {
+      0%   { box-shadow: 0 0 100px 0 rgba(225,235,255,0.4); }
+      100% { box-shadow: 0 0 60px 0 rgba(200,220,255,0.6); }
+    }
+    @keyframes tvflicker {
+      0%   { box-shadow: 0 0 100px 0 rgba(225,235,255,0.4); }
+      100% { box-shadow: 0 0 60px 0 rgba(200,220,255,0.6); }
+    }
+  }
+
+  /*Frame */
+
+  .inFrame {
+    border:solid 2px;
+    border-bottom-color:#ffe;
+    border-left-color:#eed;
+    border-right-color:#eed;
+    border-top-color:#ccb;
+    max-height:100%;
+    max-width:100%;
+  }
+  
+  
+  
+  
+.frame {
+  background-color:#ddc;
+  border:solid 3vmin #eee;
+  border-bottom-color:#fff;
+  border-left-color:#eee;
+  border-radius:2px;
+  border-right-color:#eee;
+  border-top-color:#ddd;
+  box-shadow:0 0 3px 0 rgba(0,0,0,.25) inset, 0 5px 5px 5px rgba(0,0,0,.25);
+
+  box-sizing:border-box;
+  display:inline-block;
+  text-align:center;
+  &:before {
+    border-radius:2px;
+    bottom:-1vmin;
+    box-shadow:0 2px 5px 0 rgba(0,0,0,.25) inset;
+    content:"";
+    left:-1vmin;
+    position:absolute;
+    right:-1vmin;
+    top:-1vmin;
+  }
+  &:after {
+    border-radius:2px;
+    bottom:-1.5vmin;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,.25);
+    content:"";
+    left:-1.5vmin;
+    position:absolute;
+    right:-1.5vmin;
+    top:-1.5vmin;
+  }
+}
+
+  .plaque{
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  }  
+
+  .timeline{
+    transform: translateZ(-1000px) scale(2);
+     perspective: 1000px;
+  }
+
+  @media (max-width: 640px){
+    .wall-1{
+      transform:rotateY(0deg);
+      box-shadow: none;
+  
+    }
+    .wall-2{
+      transform:rotateY(0deg);
+      box-shadow: none;
+  
+    }
+    .comb, .comb-2{
+      transform:translateZ(0px) scale(1);
+      top:0px;
+    }
+    .wall-3, .blog, .wall-3{
+      transform: translateZ(0px) scale(1) translateY(0px);
+    }
+    .new-cont{
+      top:0px;
+      position:relative;
+      margin-bottom:0vh
+    }
+    .tablet_3d, .tablet_2d, .tablet:hover{
+      transform:rotateX(0deg) translateY(0px);
+    }
+    .comb-2{
+      top:0px;
+    }
+    .wall2-3d, .wall1-3d{
+      transform:rotateY(0deg) scale(1.2);
+      box-shadow: none;
+      top: 20vh;
+      margin-bottom: 20vh;
+
+    }
+    .cont-2{
+      top: 0vh;
+    }
+    #monitor{
+      margin:0px;
+    }
+    .timeline{
+      transform: translateZ(0px) scale(1);
+
+
+    }
+  
+  
+  }
+  
+
+
+

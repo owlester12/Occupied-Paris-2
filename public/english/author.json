@@ -1,0 +1,170 @@
+[
+    [{
+        "type": "title-heading",
+        "EN": "ABOUT THE AUTHOR",
+        "FR": "PROPOS DE L'AUTEUR"
+    }],[
+    {
+        "type": "text",
+        "EN": "My name is Mélanie Péron. I come from a tiny village barely visible on a map. I am not Jewish. None of my relatives was a victim of the Holocaust. My grandparents were not in the Resistance. They did not save any one from the Holocaust.",
+        "FR": "Je m'appelle Mélanie Péron. Je viens d'un tout petit village à peine visible sur une carte. Je ne suis pas juive. Aucun de mes proches n'a été victime de la Shoah. Mes grands-parents n'étaient pas dans la Résistance. Ils n'ont sauvé personne de la Shoah."
+
+    }],[
+    {
+        "type": "text",
+        "EN": "Yet, I created a course on Paris during the German Occupation, applied and received the Lori Rutman Teaching Fellowship. Then, with the support of the USC Shoah Foundation and the Penn Price Lab for Digital Humanities, I developed a multimedia map of Parisduring WWIIand now a website.",
+        "FR": "Pourtant, j'ai créé un cours sur Paris pendant l'occupation allemande, j'ai demandé et obtenu la bourse Lori Rutman. Ensuite, avec le soutien de la USC Shoah Foundation et du Penn Price Lab for Digital Humanities, j'ai développé une carte multimédia de Paris pendant la Seconde Guerre mondiale et maintenant un site web."
+    
+        }], [
+        {
+            "type": "heading",
+           "EN": "BLANK A– WHY WOULD I EXPLORE A TIME FROM A PAST I DID NOT EXPERIENCE?",
+           "FR": "BLANK A– WALORS POURQUOI EXPLORER L'ÉPOQUE D'UN PASSÉ QUE JE N'AI PAS VÉCU ?" 
+        }
+    ], [
+        {
+            "type": "image",
+            "image": "/about_author/intro_1.png"
+        }
+    ], [
+        {
+            "type": "text",
+            "EN": "To answer this question, I turned to my primary signifier. Could my name lead me to the liminal moment when it all started or should I saythe threshold, as my name actually means in French if you add an extra [r]? A quick Google search conjuresup a frightening web connecting my name to ...anti-Semitism. René Péron was the illustrator of the infamous poster ",
+            "FR": "Pour répondre à cette question, je me suis tournée vers mon principal signifiant. Mon nom pourrait-il ainsi me conduire au moment liminaire où tout a commencé ou devrais-je plutôt dire au seuil, comme mon nom le signifie si vous ajoutez un [r] supplémentaire ? Une rapide recherche sur Google révèle une toile effrayante qui relie mon nom à ... l'antisémitisme. René Péron était l'illustrateur de la tristement célèbre affiche Le Juif et la France. Perón, avec un accent déplacé sur le [o], nous amène au leader argentin qui a financé l'évasion des principaux architectes de la Shoah. Pèron, avec un accent grave sur le [e], signifie pilori en vieux français. Au Pilori etait le titre de l'hebdomadaire antisémite le plus virulent sous l'Occupation."
+        
+        },
+        {
+            "type": "italic-text",
+            "EN": "The Jew and France."
+        },
+        {
+            "type": "text",
+            "EN": " Perón, with a displaced accenton the [o], takes us to the Argentinian leader who financed the escape of key architects of the Holocaust. Pèron, with an inverted accenton the [e], means pillory in old French. "
+        },
+        {
+            "type": "italic-text",
+            "EN": "Au Pilori"
+        },
+        {
+            "type": "text",
+            "EN": "was the most virulent anti-Semitic weekly paper during the Occupation."
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "image": "/about_author/intro_2.png"
+        }
+    ], [
+        {
+            "type": "text",
+            "EN": "My place of birth only reinforces the rooting of my origins into the wrong side of history. I was born 30 kms away from Beaune-la-Rolande, 50 kms away from Pithiviers. Both towns became known for their internment camps where thousands of Jews – a lot of whom were children- transited before being deported to Auschwitz. Growing up, for the longest time, I only knew that a Pithiviers was a cake, specialty of the town bearing the same name.",
+            "FR": "Mon lieu de naissance ne fait que renforcer mon rattachement au mauvais côté de l'histoire. Je suis née à 30 kms de Beaune-la-Rolande, à 50 kms de Pithiviers. Ces deux villes sont connues pour leurs camps d'internement où des milliers de Juifs - dont beaucoup d'enfants - ont transité avant d'être déportés à Auschwitz. En grandissant, pendant longtemps, je savais seulement qu'un Pithiviers était un gâteau, spécialité de la ville portant le même nom."
+   
+        }
+    ], [
+        {
+            "type": "text",
+            "EN": "Maybe this is where it all started.",
+            "FR": "C'est peut-être ici que tout a commencé."
+        }
+    ], [
+        {
+            "type": "heading",
+         "EN": "BLANK B – MY GRANDMOTHER’S APRON",
+         "FR": "BLANK B – LE TABLIER DE MA GRAND-MÈRE"   
+        }
+    ], [
+        {
+            "type": "text",
+            "EN": "My grandmother was a peasant. One about whom books do not talk much. She worked like a man, ran the farm and raised 2 young daughters while her husband was a war prisoner in Czechoslovakia for 5 years. A woman of few words, she always remembered to make everyone’s favorite dish when they came visit, to plant all of her grandchildren’s favorite fruits in the garden, to take us on long bike rides finding the best tree under which to take a nap. She got up hours before everyone else, put on her meticulously ironed apron and silently got everything ready. She lived backstage, in her charismatic husband’s shadow. She never talked about her past. She never talked about her feelings. She never talked about her dreams. No one asked her about them anyway. She was just ",
+            "FR": "Ma grand-mère était une paysanne. Une de celles dont les livres ne parlent pas beaucoup. Elle travaillait comme un homme, s'occupait de la ferme et élevait deux petites filles pendant que son mari était prisonnier de guerre en Tchécoslovaquie pendant 5 ans. Femme discrète, elle n'oubliait jamais de préparer le plat préféré de chacun lorsqu'on lui rendait visite, de planter dans le jardin tous les fruits préférés de ses petits-enfants, de nous emmener faire de longues promenades à vélo pour trouver le meilleur arbre sous lequel faire la sieste. Elle se levait des heures avant tout le monde, enfilait son tablier méticuleusement repassé et préparait la maison en silence. Elle vivait dans les coulisses, dans l'ombre de son charismatique mari. Elle ne parlait jamais de son passé. Elle ne parlait jamais de ses sentiments. Elle ne parlait jamais de ses rêves. Personne ne lui posait de questions à ce sujet de toute façon. Elle était juste là pour nous, ses \"petits\" comme elle disait."
+        
+        },
+        {
+            "type": "italic-text",
+            "EN": "there"
+        }, 
+        {
+            "type": "text",
+            "EN": " for us, her “little ones” ("
+        },
+        {
+            "type": "italic-text",
+            "EN": "mes petits"
+        }, {
+            "type": "text",
+            "EN": ") as she called us."
+        }
+    ], [
+        {
+            "type": "image",
+            "image": "/about_author/intro_3.png"
+        }
+    ], [
+        {
+            "type": "text",
+            "EN": "Sometimes, she would go to my grandfather’s office and close the door. Once I hid and saw her take a key from under a book and open the cabinet. She pulled out a folder, sat and cried repeating “these poor little ones”. After she left, I took the key, opened the cabinet and looked at the papers. They were newspaper clippings about the camps in Pithiviers and Beaune-la-Rolande. I never said anything to her about it.",
+            "FR": "Parfois, elle allait dans le bureau de mon grand-père et fermait la porte derrière elle. Un jour, je me suis cachée et je l'ai vue prendre une clé sous un livre et ouvrir l'armoire. Elle a sorti un dossier, s'est assise et a pleuré en répétant \"ces pauvres petits\". Après son départ, j'ai pris la clé, ouvert l'armoire et regardé les papiers. C'étaient des coupures de journaux au sujet des camps de Pithiviers et de Beaune-la-Rolande. Je ne lui en ai jamais parlé."
+        
+        }
+    ], [
+        {
+            "type": "text",
+            "EN": "My grandmother eventually had Alzheimer’s. My name and my face were the only ones she remembered. Her body was broken and took the shape of an inverted L. When she walked, her gaze could only stare at the floor. She filled the pocket of her apron with all sorts of little rocks she would find on the ground and inspect them before going to sleep. As she would painfully try to put her finger on what was inevitably ending on the tip of her tongue, I decided to appease her ordeal and stopped using words to talk to her. We communicated with gestures and looks. I had so many questions for her but she had no words for me. What she had for me though, apart from the little rocks she would leave on my bed, was this bright complicit light in her eyes when she looked at me. My relatives only talk about her blank stare. We evidently did not live in the same story.",
+            "FR": "Ma grand-mère a fini par avoir la maladie d'Alzheimer. Mon nom et mon visage étaient les seuls dont elle se souvenait. Son corps était brisé et épousait la forme d'un L inversé. Quand elle marchait, son regard ne pouvait que fixer le sol. Elle remplissait la poche de son tablier de toutes sortes de petites cailloux qu'elle trouvait par terre et les inspectait avant de s'endormir. Tandis qu'elle essayait péniblement de mettre le doigt sur ce qui finissait inévitablement sur le bout de sa langue, j'ai décidé d'apaiser son calvaire et j'ai cessé d'utiliser des mots pour lui parler. Nous communiquions avec des gestes et des regards. J'avais tant de questions à lui poser, mais elle n'avait pas de mots pour me répondre. Ce qu'elle avait pour moi en revanche, à part les petits cailloux qu'elle laissait sur mon lit, c'était cette lumière vive et complice qui brillait dans ses yeux quand elle me regardait. Mes proches ne parlent que de son regard vide. De toute évidence, nous n'avons pas vécu la même histoire."
+       
+        }
+    ], [
+        {
+            "type": "text",
+            "EN": "Maybe this is where it all started.",
+            "FR": "C'est peut-être là que tout a commencé."
+        }
+    ], [
+        {
+            "type": "heading",
+            "EN": "BLANK C - LOUISE.",
+            "FR": "BLANK C - LOUISE."
+        }
+    ], [
+        {
+            "type": "text",
+            "EN": "All I have is her first name. Louise. My grandfather’s name was Maurice. Louise and Maurice met in 1945 on the road. He was heading back home from Czechoslovakia where he was a war prisoner. She was a survivor from a concentration camp. She had nothing on. Her feet were swollen and bloody. My grandfather gave her a jacket and made her shoes with leaves and tree bark. He had never met a Jew and she surely did not look like what he had in mind Jews looked like. I can’t help wonder: had my grandfather not been taken prisoner in 1940, would he have supported the Vichy anti-Semitic laws? He used to say Louise was the best thing that ever happened to him during that war. We all knew Louise who religiously called once a year – probably on the anniversary of the day they met. Yet, nobody in my family, but my grandfather, ever saw her or spoke to her. After he died, I looked for her name in his address book. She was listed simply as Louise. There was no address. Only a phone number. Soon after, somebody discarded the old book and Louise vanished with it.",
+            "FR": "Je n'ai que son prénom. Louise. Le prénom de mon grand-père était Maurice. Louise et Maurice se sont rencontrés en 1945 sur la route. Il rentrait de Tchécoslovaquie où il était prisonnier de guerre. Elle était une rescapée d'un camp de concentration. Elle n'avait rien sur elle. Ses pieds étaient enflés et en sang. Mon grand-père lui a donné une veste et lui a fabriqué des chaussures avec des feuilles et de l'écorce d'arbre. Il n'avait jamais rencontré de juif et elle ne ressemblait sûrement pas à ce à quoi il pensait qu'un juif ressemblait. Je ne peux m'empêcher de me demander : si mon grand-père n'avait pas été fait prisonnier en 1940, aurait-il soutenu les lois antisémites de Vichy ? Il avait l'habitude de dire que Louise était la meilleure chose qui lui soit arrivée pendant cette guerre. Nous avons tous connu Louise qui, religieusement, appelait une fois par an - probablement à l'occasion de l'anniversaire du jour de leur rencontre. Pourtant, personne dans ma famille, à part mon grand-père, ne l'a jamais vue ni ne lui a parlé. Après la mort de mon grand-père, j'ai cherché son nom dans son carnet d'adresses. Elle était inscrite simplement sous le nom de Louise. Il n'y avait pas d'adresse. Seulement un numéro de téléphone. Peu après, quelqu'un a jeté le vieux carnet et Louise a disparu avec."
+        
+        }
+    ], [
+        {
+            "type": "text",
+            "EN": "Maybe this is where it all started.",
+            "FR": "C'est peut-être là que tout a commencé."
+        }
+    ], [
+        {
+            "type": "image",
+            "image": "/about_author/intro_4.png"
+        }
+    ], [
+        {
+        "type": "text",
+        "EN": "My grandmother’s name was Renée Péron. That extra [e] which sets her apart from the illustrator of " ,
+        "FR": "Ma grand-mère s'appelait Renée Péron. Ce [e] supplémentaire qui la distingue du dessinateur du Juif et la France pourrait être une des clés de l'histoire. Je pourrais d'ailleurs dédier le projet à la lettre [e] comme l'a fait Georges Perec. Pour [e], pour eux. Pour ces petits que ma grand-mère n'a pas sauvés, pour ces enfants qu'elle aurait pu cacher dans sa ferme et à qui elle aurait pu faire don de souvenirs magiques, pour ma grand-mère et la personne qu'elle aurait voulu être pour eux, pour les histoires qu'elle n'a pas pu raconter à mesure que sa mémoire s'effaçait, pour mon grand-père et l'homme qu'il est devenu grâce à Louise, pour Louise qui fait partie à jamais du récit familial."  
+       
+    },
+        {
+            "type": "italic-text",
+            "EN": "The Jew and France"
+        }, {
+            "type": "text",
+            "EN": "might be one key to the story. I could in fact dedicate the project to the letter [e] as Georges Perec did. For [e], Pour [e], For them, Pour eux. For those little ones my grandmother did not save, for the children she could have hidden in her farm and given magical memories to, for my grandmother and the person she wished she could have been for them, for the stories she could not tell as her memory was being erased, for my grandfather and the man he became thanks to Louise, for Louise who is forever part of the family narrative."
+        }
+    ], [
+        {
+            "type": "image",
+            "image": "/about_author/TS_ELIOT.png"
+        }
+    ]
+
+
+]

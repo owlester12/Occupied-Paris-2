@@ -1,0 +1,413 @@
+{
+    "muller": {
+        "name": "Muller",
+        "bio": {
+            "image":  "/book_images/muller.jpg",
+            "text":[
+           
+            [{
+                    "type": "text",
+                    "EN": "The Muller family lived at 3 rue de l'Avenir in the 20th arrondissement. Manek and Rachel emigrated from Poland in the 1930s and set up shop as home-based dressmakers. During the war, their four children - Henri, Jean, Annette and Michel - attended school on rue Olivier-Metra.",
+                    "FR": "La famille Muller habite au 3 rue de l’Avenir dans le 20ème arrondissement. Manek et Rachel ont émigré de Pologne dans les années 30 et se sont installés comme couturiers à domicile. Pendant la guerre, leurs quatre enfants – Henri, Jean, Annette et Michel - fréquentent l’école de la rue Olivier-Metra."
+               
+                    }],
+                [{
+                    "type": "text",
+                    "EN": "On July 16, 1942, French police officers came to arrest Rachel and the children. Manek, warned of an imminent round-up and convinced that it would only concern men, hid the day before with a neighbor. The two eldest sons, Henri and Jean, managed to escape and were reunited with their father. Annette, Michel and their mother were taken to the Vélodrome d'Hiver where they stayed for several days before being taken to the Pithiviers camp. On August 7, 1942, Rachel was deported from Pithiviers on convoy #16 and arrived at Auschwitz on August 9. Only Manek and the children survived.",
+                    "FR": "Le 16 juillet 1942, des policiers français viennent arrêter Rachel et les enfants. Manek, prévenu d’une rafle imminente et convaincu qu’elle ne concernerait que les hommes, s’est caché la veille avec un voisin. Rachel réussit à faire échapper ses deux aînés, Henri et Jean, qui retrouvent leur père. Annette, Michel et elle sont conduits au vélodrome d’hiver où ils restent plusieurs jours avant d’être acheminés au camp de Pithiviers. Le 7 août 1942, Rachel est déportée de Pithiviers par le convoi 16 et arrive à Auschwitz le 9 août. Seuls Manek et les enfants ont survécu."
+                
+                    }],
+                [{
+                    "type": "text",
+                    "EN": "In 1991, Annette published La Petite Fille du Vel d'Hiv, which she dedicated to her mother, Rachel. In his preface, Serge Klarsfeld says that \"Annette has become the family memorialist. Annette's account is movingly intense, so much so that her love for her mother dominated her life as a child; a cheerful, beautiful, intelligent, hard-working, flirtatious and sociable mother.\" On the day of the roundup, the mother begs: \"Don't take the children\".",
+                    "FR": "En 1991, Annette publie La petite fille du Vel d’Hiv qu’elle dédie à sa mère, Rachel. Dans sa préface, Serge Klarsfeld raconte qu' «Annette est devenue la mémorialiste de la famille. Le récit d’Annette est d’une intensité émouvante, tant l’amour pour sa mère dominait sa vie d’enfant ; une mère gaie, belle, intelligente, travailleuse, coquette et sociable. Le jour de la rafle, la mère supplie : \"Ne prenez pas les enfants.\""
+                
+                    }],
+                [{
+                    "type": "text",
+                    "EN": "Annette died on August 9, 2021. 79 years to the day after her mother disappeared in Auschwitz.",
+                    "FR": "Annette est morte le 9 août 2021. 79 ans jour pour jour après la disparition de sa mère à Auschwitz."
+                
+                    }]
+        ]},
+        "testimony" : [
+            [{
+                "type": "heading",
+                "EN": "TESTIMONY FROM ANNETTE BESSMANN NÉE MULLER",
+                "FR": "TEMOIGNAGE ANNETTE BESSMANN NÉE MULLER"
+            }],
+            [{
+                "type": "text", 
+                "EN": "Annette Muller was arrested during the July 16, 1942 round-up. She experienced the horror of the Vel' d'Hiv', was torn away from her mother who was forced onto a train bound for Auschwitz, and lived through the hell of Drancy. Post-war France did not want to talk about this horror. Shocked by the silence surrounding what is now called the Vel' d'Hiv' roundup and especially the amnesia that covered the fate of Jewish children in France during the Second World War, Annette decided to write the story of her childhood in 1976. She sent her text to numerous publishing houses. In vain. It was not until 1983 that Serge Klarsfeld published fragments of it in his book Vichy-Auschwitz. The Barbie trial and the film Au revoir les enfants by Louis Malle in 1987 opened the eyes of the public. Annette's testimony finally found an audience. In 1991, the first edition of La petite fille du Vel' d'Hiv' was published by Denoël. The book tells the story of her family from 1929 to the autumn of 1942 when she was released from Drancy. In 2009, she published the completed version with a recounting going all the way to 1947 and followed by the testimony of her father Manek. Although they have been essential reference texts for researchers, writers, and filmmakers, none of Annette's works has ever been translated into English. The following work is a humble contribution to filling this gap. We hope that reading it will inspire a professional translator to do an official translation of La petite fille du Vel' d'Hiv'.",
+                "FR": "Annette Muller a été arrêtée lors de la rafle du 16 juillet 1942. Elle a connu l’horreur du Vel’ d’Hiv’, a été arrachée à sa mère jetée dans en train à destination d’Auschwitz, a vécu l’enfer de Drancy. De cette horreur, la France de l’après-guerre ne veut parler. Choquée par le silence qui entoure celle que l’on appelle maintenant la rafle du Vel’ d’Hiv’ et surtout l’amnésie qui recouvre le sort des enfants juifs en France pendant la Seconde Guerre Mondiale, Annette décide d’écrire le récit de son enfance en 1976. Elle envoie son texte à nombreuses maisons d’édition. En vain. Il faudra attendre 1983 pour que Serge Klarsfeld en publie des fragments dans son ouvrage "
+                },{
+                    "type": "italic-text",
+                    "EN": "",
+                    "FR": "Vichy-Auschwitz."
+                },
+            {
+                "type": "text",
+                "EN": "",
+                "FR": " Le procès Barbie et le film "
+            },
+        {
+            "type": "italic-text",
+            "EN": "",
+            "FR": "Au revoir les enfants"
+        },
+    {
+        "type": "text",
+        "EN": "",
+        "FR": " de Louis Malle en 1987 ouvrent les yeux du public. Le témoignage d’Annette trouve enfin une audience. En 1991, la première édition de "
+    },
+{
+    "type": "italic-text",
+    "EN": "",
+    "FR": "La petite fille du Vel’ d’Hiv’"
+},
+{
+    "type": "text",
+    "EN": "",
+    "FR": " est publié chez Denoël. Le livre raconte l’histoire de sa famille de 1929 à l’automne 1942 lorsqu’elle est libérée de Drancy. En 2009, elle publie la version complète avec un récit allant jusqu’à 1947 et suivie du témoignage de son père Manek. Bien qu’ayant été des textes de référence essentiels pour les chercheurs, les écrivains, les cinéastes, aucun des ouvrages d’Annette n’a été traduit en anglais. Le travail ci-dessous est une humble contribution pour combler cette lacune. Nous espérons que sa lecture inspirera un.e traduct.eur.rice professionnel.le à faire une traduction officielle de "
+},{
+    "type": "italic-text",
+    "EN": "",
+    "FR": "La petite fille du Vel’ d’Hiv’."
+    }],
+            [{
+                "type": "text",
+                "EN": "In 1995, Annette and her three brothers, Henri, Jean and Michel, provided testimonials to the USC Shoah Foundation. The text below is a translation of Annette's testimony, interspersed with excerpts from her brothers'. This four-voice account attempts to reconstruct, as closely as possible, the childhood of these survivors as they depicted it 50 years after the events. It also tries to reproduce the indefectible complicity that bonded \"this clan\" until the end. Unfortunately, it does not answer all the questions that readers may have. Only La petite fille du Vel' d'Hiv' provides all the keys.",
+                "FR": "En 1995, Annette et ses trois frères, Henri, Jean et Michel ont témoigné auprès de la Shoah Foundation. Le texte ci-dessous est la traduction du témoignage d’Annette entremêlé d’extraits de ceux de ses frères. Ce récit à quatre voix tente de reconstituer, au plus près possible, l’enfance de ces survivants comme ils l’ont racontée 50 ans après les faits. Il tend aussi à reproduire la complicité indéfectible qui a soudé “ce clan” jusqu’à la fin. Malheureusement, il ne répond pas à toutes les réponses que les lecteurs peuvent se poser. Seule"
+            
+                },
+            {
+                "type": "italic-text",
+                "EN": "",
+                "FR": "La petite fille du Vel’ d’Hiv’"
+            },
+        {
+            "type": "text",
+            "EN": "",
+            "FR": " fournit toutes les clefs de lecture."
+        }],
+        [{
+            "type": "text",
+            "EN": "",
+            "FR": "Copyright: Mélanie Péron acknowledges the USC Shoah Foundation for allowing her to transcribe the following testimonies: Annette Bessman Muller (1995), Henri Muller (1995), Jean Muller (1995), Michel Muller (1995). For more information: "
+        },
+    {
+        "type": "url",
+        "EN": "",
+        "FR": "http://sfi.usc.edu/",
+        "url": "http://sfi.usc.edu/"
+    }],
+    [{
+        "type": "text",
+        "EN": "",
+        "FR": "Note: L’orthographe des noms et prénoms est celle utilisée par Annette dans son ouvrage et/ou retrouvée dans le recensement de 1936."
+    }]
+        ],
+        "timeline": "https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1_cySUFYU8koPp84v34X9boFrP4RibXsZJwKnZ7M7ecg&font=Default&lang=en&initial_zoom=2&height=650",
+        "map": "https://pennds.org/melanieperon/neatline/fullscreen/muller-map",
+        "blog": [
+            [{
+                "type": "text",
+                "EN": "In an eagerness to preserve every detail of my story with the Mullers and to keep the thread of what we were trying to weave, I regularly wrote down in a notebook - curiously of the Mnemosyne brand - impressions, descriptions of what happened during the day.",
+                "FR": "Dans un souci de préserver le moindre détail de mon histoire avec les Muller et de garder le fil de ce que nous essayions de tisser, j’ai régulièrement consigné dans un carnet -curieusement de la marque Mnemosyne- des impressions, des descriptions de ce qui s’était passé dans la journée. Ces notes, partagées ici sous forme de blog, apportent de nouvelles clefs de lecture et livrent des informations sur les coulisses de mon aventure touchante et espiègle avec Henri. On y découvre un vieil enfant à la fois facétieux et porteur de la mémoire familiale. Une bien lourde responsabilité mais qu’il honore avec élégance, générosité et humour. Elégante, généreuse et pleine d’humour : c’est le portrait qu’Annette, Henri, Jean et Michel ont justement fait de leur mère Rachel."
+            }],
+            [{
+                "type": "text",
+                "EN": "These notes, shared here in the form of a blog, provide new reading keys and information about what went on behind the scenes of my touching and mischievous adventure with Henri. We discover an old child who is both facetious and the bearer of the family memory. A heavy responsibility but one that he honors with elegance, generosity and humor. Elegant, generous and full of humor: this is exactly the portrait that Annette, Henri, Jean and Michel all made of their mother Rachel.",
+                "FR": ""
+            
+                }],
+                [{
+                    "type": "image",
+                    "image": "/muller/blog/Henri_plaque.jpeg"
+                }]
+        ],
+        "video": [{
+            "video": "https://cdnapisec.kaltura.com/p/1147242/sp/114724200/embedIframeJs/uiconf_id/9757771/partner_id/1147242?iframeembed=true&playerId=kaltura_player&entry_id=1_6siz5nk6&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_ieqh8ez0" ,
+            "text":[[
+            {
+                "type": "heading",
+                "EN": "JUNE 2021- WALKING WITH HENRI"
+            }
+        ],
+        [{
+            "type": "text",
+            "EN": "On June 21, 2021, Henri went back on the trail of the young boy he was on July 16, 1942. In this film, he invites us to discover the history of the Vel d'Hiv roundup through the steps his family took that morning. Starting from the top of the stairs at 3 rue de l'Avenir, he walks to the Bellevilloise before fleeing to the Place du Guignier."
+        }]
+        ]}]
+
+    },
+    "reiman": {
+        "name": "Reiman",
+        "bio":{ 
+            "image": "/reiman/banner_arlette.png",
+            
+        "text":[
+            [{
+                "type": "text",
+                "EN": "In 1995, Arlette shared her testimony with the Shoah Foundation. The text below is a transcription of her testimony intermingled with memories from her sister Madeleine. This account in two voices, which are sometimes dissonant, tells us the life of two little girls torn from the warmth of the family nest by History \"with its great axe\" (G. Perec). Rounded-up on July 16, 1942, interned in the Vélodrome d'Hiver and then in the Pithiviers camp, hidden and \"playing the game\" so as not to arouse suspicion, orphaned of father and then mother, they sadly had to learn to grow up fast. Too fast.",
+                "FR": "En 1995, Arlette a témoigné auprès de la Shoah Foundation. Le texte ci-dessous est la transcription de son témoignage entremêlé de souvenirs de sa soeur Madeleine. Ce récit à deux voix, parfois dissonantes, nous raconte la vie de deux petites filles arrachées à la chaleur du cocon familial par l’Histoire « avec sa grande hache ». Internées au Vel d’Hiv puis à Pithiviers, cachées et « jouant le jeu » pour ne pas éveiller les soupçons, orphelines de père puis de mère, elles apprendront à grandir vite. Trop vite."
+            
+                }],
+            [{
+                "type": "text",
+                "EN": "Note: Arlette uses the spelling Reimann in her oral testimony and Reiman in her book. With the exception of the transcript of the testimony, the form Reiman is the one we have kept.",
+                "FR": "N.B. Arlette utilise l'orthographe Reimann dans son témoignage oral et Reiman dans son livre. A l'exception de la trancription du témoignage, la forme Reiman est celle que nous avons gardée."
+            
+                }]]},
+        "testimony": [
+            [{
+                "type": "heading",
+                "EN": "TESTIMONY FROM ARLETTE REIMAN",
+                 "FR": "TEMOIGNAGE ARLETTE REIMAN"
+            }],
+            [{
+                "type": "text",
+                "EN": "The Reiman family lived at 114 rue du Temple in the 3rd arrondissement. Abraham and Malka emigrated from Poland to \"the country of the Enlightenment and Zola\" as this father in love with his new homeland liked to say. He made a very nice living in Paris, which allowed him to treat his wife and daughters, Madeleine and Arlette, like princesses. As soon as war was declared, Abraham naturally volunteered. He was demobilized after the armistice, but was arrested during the Green Ticket round-up in May 1941. From that moment on, the Reimans' lives were turned upside down. Interned in the Pithiviers camp and then sent to an \"unknown destination\", Abraham probably never knew that his wife and children had been rounded up on July 16, 1942, interned in the Vélodrome d'Hiver and locked up in the Beaune-la-Rolande camp. He probably never knew that his daughters then had to live in hiding while Malka was forced to work for the German occupiers. He did not return but Malka, unable to live without her childhood sweetheart, joined him. In January 1946, Madeleine and Arlette were all alone. Contrary to what Arlette thought, her father's friends, Zola and Voltaire, never came to help them.",
+                "FR": "La famille Reiman habite au 114 rue du Temple dans le 3ème arrondissement. Abraham et Malka ont émigré de Pologne pour « le pays des Lumières et de Zola » comme aime à le répéter ce père de famille amoureux de sa nouvelle patrie. Il s’est fait une très belle situation à Paris ce qui lui permet de traiter sa femme et ses filles, Madeleine et Arlette, comme des princesses. Dès la déclaration de la guerre, Abraham se porte naturellement volontaire. Démobilisé après l’armistice, il sera arrêté lors de la rafle du Billet Vert en mai 1941. A partir de ce moment, la vie des Reiman est mise sens dessus-dessous. Interné à Pithiviers puis envoyé en « destination inconnue », Abraham ne saura probablement pas que sa femme et ses enfants ont été raflées le 16 juillet 1942, internées dans le Vélodrome d’Hiver, enfermées au camp de Beaune-la-Rolande. Il ne saura probablement pas que ses filles devront vivre cachées tandis que Malka est forcée de travailler pour l’occupant allemand. Il ne reviendra pas mais Malka, ne pouvant vivre sans son amour d’enfance, le rejoindra. En janvier 1946, Madeleine et Arlette sont toutes seules. Contrairement à ce qu’Arlette pensait, les amis de son père, Zola et Voltaire, ne sont jamais venus les aider."
+            
+                }],
+            [{
+                "type": "text",
+                "EN": "Stunning in their resilience, courage, and uprightness, the little girls turned young women married two brothers, Charles and Joseph Testyler. These drifting young men had just returned from the camps. They lost all their relatives, experienced the unimaginable, and looked at death in the eyes. The four of them chose life and rebuilt a family.",
+                "FR": "Epoustouflantes de résilience, de courage, de droiture, les petites filles devenues jeunes filles épousent deux frères, Charles et Joseph Testyler. Ces jeunes hommes à la dérive reviennent des camps. Ils y ont perdu tous les leurs, y ont vécu l’inimaginable, y ont vu la mort en face. Tous les quatre, ils choisissent la vie et reconstruisent une famille."
+            
+                }],
+            [{
+                "type": "text",
+                "EN": "Arlette and Charles never stopped sharing their stories, especially in schools. They wrote a book, Les Enfants aussi ! (The Children too!) The grandeur of their souls and their joie de vivre is an invaluable gift to us all.",
+                "FR": "Arlette et Charles n’auront de cesse de témoigner, surtout dans les écoles. Ils écrivent un livre, Les Enfants aussi ! La grandeur d’âme et la joie de vivre de ces anciens enfants dépouillés de tout est un inestimable cadeau pour nous tous."
+            
+                }]
+        ],
+        "timeline": "https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1AzT5p_CtZL20rmkChcpcT_nKT7c1aCnCeyUVfMWwKMo&font=Default&lang=en&initial_zoom=2&height=650",
+        "map": "https://pennds.org/melanieperon/neatline/fullscreen/testyler"
+    },
+    "christophe": {
+        "name": "Christophe",
+        "bio":{
+            "image": "/christophe/1938francine_cropped.png",
+            "text": [
+                [{
+                    "type": "text",
+                    "EN": "The Christophe family lives at 106 rue Cardinet in the 17th arrondissement. Robert and Marcelle come from the so-called Israelite, secular and republican bourgeoisie. With their only daughter, Francine, they form a close-knit family.",
+                    "FR": "La famille Christophe habite au 106 rue Cardinet dans le 17ème arrondissement. Robert et Marcelle sont issus de la bourgeoisie dite israélite, laïque et républicaine. Avec leur fille unique, Francine, ils forment une famille unie."
+                },
+            {
+                "type": "text",
+                "EN": "In the summer of 1940, Robert was captured and sent to a prison camp in Austria. In Paris, mother and daughter had to face the rampant anti-Semitic measures. At the end of July 1942, they tried to flee to the free zone. Arrested by the Germans in La Rochefoucauld, they were tossed from one French camp to another. Their status as spouse and daughter of a prisoner of war made them hostages, protecting them from deportation... until May 2, 1944 when they were taken to the Bergen-Belsen camp. There, Francine experienced the unspeakable. The family was finally reunited in June 1945. They returned to a Paris that had been liberated a year earlier, where things had returned to normal and there was no mention of the Shoah. \"After the camps, life goes on\" but how can one live like others when one has experienced the unimaginable? How to keep one's own memories and those of others who cannot share them when no one wants to hear them?",
+                "FR": "Robert est mobilisé, capturé puis envoyé dans un camp de prisonniers à l’été 1940. A Paris, mère et fille vont faire face aux mesures antisémites : recensement, brimades, étoile jaune. Fin juillet 1942, elles tentent de s’enfuir en zone libre. Arrêtées par les Allemands à La Rochefoucauld, elles seront ballottées d’un camp français à l’autre. Leur statut d’épouse et fille de prisonnier de guerre en font des otages, les protégeant de la déportation… jusqu’au 2 mai 1944 où elles sont emmenées au camp de Bergen-Belsen. Dans ce camp, Francine connaît l'innommable. La famille est enfin réunie en juin 1945. Elle retrouve un Paris libéré depuis un an où les choses ont repris leur cours et où on ne parle pas de la Shoah. « Après les camps, la vie » mais comment vivre comme les autres quand on a connu l’inimaginable ? Comment conserver ses propres souvenirs et ceux des autres qui ne peuvent les partager quand personne ne veut les entendre?"
+            },
+            {
+            "type": "text",
+            "EN": "For a while, Francine scribbled down what haunted her and what came back to her on scraps of paper that she carefully put away. In 1967, she begins her stichwork: she reassembles her story by connecting all these scattered texts. This was to become the framework of her book From a World Apart. A Little Girl in the Concentration Camps published in 1996.",
+            "FR": "Pendant un temps, Francine griffonne ce qui la hante et ce qui lui revient sur des bouts de papiers qu’elle range sagement. En 1967, elle commence son travail de reprise : elle recoud son histoire en connectant toutes ces bribes de textes. Ce sera la trame de son ouvrage Une Petite Fille Privilégiée publié en 1996."
+            },
+            {
+        "type": "text",
+        "EN": "In 1995, Francine participated in the Shoah Foundation's initiative and told her story. Since then, she has continued to write and testify. Through her story, we discover not only a facet of history, but above all, we discover people, full of life, whose existence was erased. Or at least this is what some wanted but Francine is working to prevent it to happen.",
+        "FR": "En 1995, Francine participe à l’initiative de la Shoah Foundation et y raconte son histoire. Depuis, elle n’a de cesse d’écrire, de témoigner et d’intervenir dans les écoles. A travers son histoire, nous découvrons, non seulement, une facette de l’Histoire mais surtout, nous découvrons des êtres, pleins de vie, dont l’existence a été effacée. Ou du moins est-ce ce que certains voulaient mais que Francine s’œuvre à empêcher."
+            }]
+            ]
+        },
+        "testimony": [
+            [{
+                "type": "heading",
+                "FR": "TEMOIGNAGE FRANCINE CHRISTOPHE",
+                "EN": "TESTIMONY FROM FRANCINE CHRISTOPHE"
+            }],
+            [{
+                "type": "text",
+                "EN": "In 1995, Francine gave her testimony to the Shoah Foundation. The text below is a translation of her testimony, interspersed with excerpts from her parents' memoirs Une famille dans la guerre (1940-1945). This three-voice narrative attempts to reconstruct the historical and personal events experienced by the family. It also attempts to capture the inexhaustible love that bound together this trio, whose motto was, despite everything, \"Life is beautiful\".",
+                "FR": "En 1995, Francine a témoigné auprès de la Shoah Foundation. Le texte ci-dessous est la transcription de son témoignage entremêlé d’extraits du livre de ses parents Une famille dans la guerre (1940-1945). Ce récit à trois voix tente de reconstituer les événements historiques et personnels vécus par la famille. Il tend aussi à reproduire l’amour inépuisable qui a soudé ce trio dont la devise était malgré tout “La vie est belle”."
+            },
+        {
+            "type": "text",
+            "EN": "This document is only a fragment of the memorial tapestry that Francine has been weaving ever since. When tied to the books she would later publish, it becomes the canvas on which the \"privileged little girl\" was able to bring the unimaginable to life so that it could not be erased and conveniently forgotten.",
+            "FR": "Ce document n’est qu’un fragment de la tapisserie mémorielle que Francine n’a eu de cesse de tisser depuis. Une fois rattaché aux ouvrages qu’elle publiera plus tard, il devient la trame sur laquelle “la petite fille privilégiée” a pu faire revivre l’inimaginable pour qu’on ne puisse l’effacer et commodément l’oublier."
+        }]
+        ],
+        "timeline": "https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=16nxKGfdnaep9ydD3yQDg0jNvMMlTaXqRmU_vQOPRmDM&font=Default&lang=en&initial_zoom=2&height=650",
+        "map": "https://pennds.org/melanieperon/neatline/fullscreen/francine-christophe"
+    },
+    "psankiewicz": {
+        "name": "Psankiewicz",
+        "bio": {
+            "image": "/jedinak/carousel/Rachel1936.jpg",
+            "text": [
+                [{
+                    "type": "text",
+                    "EN": "The Psankiewicz family lives at 26 rue Duris in the 20th arrondissement. Abram and Chana emigrated from Poland in the mid-1920s. They met in Paris where Chana and her sister Ruschka had decided to make a stopover before emigrating to the United States with their parents. Each met her future husband there so they stayed in France. Abram and Chana have two girls, Louise and Rachel, who attend the school on rue de Tlemcen at the time of the war.",
+                    "FR": "La famille Psankiewicz habite au 26 rue Duris dans le 20ème arrondissement. Abram et Chana ont émigré de Pologne au milieu des années 20. Ils se sont rencontrés à Paris où Chana et sa soeur Ruschka avaient décidé de faire escale avant d’émigrer aux Etats-Unis avec leurs parents. Chacune y a rencontré son futur mari. Elles sont ainsi restées en France. Abram et Chana ont deux filles, Louise et Rachel, qui fréquentent l’école de la rue de Tlemcen au moment de la guerre."
+                }],
+                [{
+                    "type": "text",
+                    "EN": "On May 14, 1941, Abram was a victim of the Green Ticket round-up and sent to the Beaune-la-Rolande camp. On July 16, 1942, French police officers come to arrest Chana and the children. They are taken to the Bellevilloise, from where Chana forces her daughters to escape. A period of wandering follows for Louise and Rachel as they watch their family inevitably vanished.",
+                    "FR": "Le 14 mai 1941, Abram est victime de la rafle du Billet Vert et envoyé au camp de Beaune-la-Rolande. Le 16 juillet 1942, des policiers français viennent arrêter Chana et les enfants. Elles sont emmenées à la Bellevilloise d’où Chana forcera ses filles à s’échapper. S’ensuit une période d’errance pour Louise et Rachel qui voient leur famille s’effacer inéluctablement."
+                }],
+                [{
+                    "type": "text",
+                    "EN": "In 1995, Rachel participates in the Shoah Foundation's initiative and finally tells her story. From that year on, she has never ceased to testify especially in schools. Just like an agile seamstress, she tirelessly mends the holes that punctuate the memory of History.",
+                    "FR": "En 1995, Rachel participe à l’initiative de la Shoah Foundation et raconte son histoire. A partir de cette année-là, elle n’aura de cesse de témoigner et d’intervenir dans les écoles. Petite main agile, elle reprise inlassablement la mémoire trouée de l’Histoire."
+                }],
+                [{
+                    "type": "text",
+                    "EN": "In 2018, Rachel publishes ",
+                    "FR": "Rachel publie "
+                },
+                {
+                    "type": "italic-text",
+                    "EN": "Nous étions seulement des enfants,",
+                    "FR": "Nous étions seulement des enfants "
+                },
+                {
+                    "type": "text",
+                    "EN": "  which she dedicates to her children and grandchildren. In November 2021, she receives from Serge Klarsfeld the insignia of Officer of the Legion of Honor for her memorial mission in schools. On that day, the mischievous little Rachel made one hell of a mockery of those who wanted to erase her story.",
+                    "FR": " en 2018 qu’elle dédie à ses enfants et ses petits-enfants. En novembre 2021, elle reçoit des mains de Serge Klarsfeld l’insigne d’Officier de la Légion d’Honneur pour sa mission mémorielle dans le cadre scolaire. Ce jour-là, l’espiègle petite Rachel faisait un sacré pied-de-nez à ceux qui voulaient effacer son histoire."
+                }]
+            ]
+        },
+        "testimony": [
+            [{
+                "type": "heading",
+                "EN": "TESTIMONY FROM RACHEL JEDINAK",
+                "FR": "TEMOIGNAGE ANNETTE BESSMANN NÉE MULLER"
+            }],
+            [{
+                "type": "italic-text",
+                "EN": "\"From that moment on, we were able to tell. Our suffering was recognized. Then, the floodgates that we had kept closed opened one by one. And my past came back to me in successive waves\" (Nous étions seulement des enfants,",
+                "FR": "\"A partir de cet instant, nous avons pu raconter. Notre souffrance était reconnue. Alors, les vannes que nous gardions fermées se sont ouvertes une à une. Et mon passé m’est revenu par vagues successives.\" (Nous étions seulement des enfants,"
+            },
+        {
+            "type": "text",
+            "EN": " pp. 92).",
+            "FR": " pp. 92)."
+        }],
+        [{
+            "type": "text",
+            "EN": "This is what Rachel writes in her 2018 book entitled We Were Only Children in reference to the historical statement President Jacques Chirac made on Sunday, July 16, 1995.",
+            "FR": "Voici ce qu’écrit Rachel en 2018 dans son récit Nous étions seulement des enfants au sujet de la déclaration historique que le Président Jacques Chirac a faite le dimanche 16 juillet 1995."
+        }],
+        [{
+            "type": "text",
+            "EN": "In the interview Rachel gave for the Shoah Foundation in August 1995, we witness the nascent resurgence of the memories she had buried so deeply over the years. Now that her voice was finally being listened to, she confided both fragments that were well anchored in her memories - her leitmotiv \"And I remember\" recalling Perec's anaphoric text – as well as the blanks that still obscured her memory at that time. This was only the first wave.",
+            "FR": "Dans l’interview que Rachel a faite pour la Shoah Foundation en août 1995, nous assistons ainsi à la remontée balbutiante des souvenirs qu’elle avait si bien enfouis pendant toutes ces d’années. Maintenant qu’on l’écoutait enfin, elle confiait à la fois des bribes bien ancrées dans ses souvenirs – son leitmotiv \"Et je me souviens\" rappelant le texte anaphorique de Perec- mais aussi les blancs qui obscurcissaient encore sa mémoire à ce moment-là. Elle n’en était qu’à la première vague."
+        }],
+        [{
+            "type": "text",
+            "EN": "During the twenty years or so that separated the two testimonies, the cathartic backwash of her liberated memory conjured back up places and faces, shed light on moments that had been blurry until then and polished up the details.",
+            "FR": "Durant la vingtaine d’années qui ont séparé les deux témoignages, le ressac cathartique de la mémoire libérée a fait resurgir des lieux et des visages, a éclairci des moments jusque-là flous et a peaufiné les détails."
+        }]
+        ],
+    "map": "https://pennds.org/melanieperon/neatline/fullscreen/rachel-jedinak",
+    "timeline": "https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1uABguNycaFugpfAG4LUt6JCHlHnyjGzY2sBcm0ROsE0&font=Default&lang=en&initial_zoom=2&height=650",
+    "blog": [[{
+        "type": "text",
+        "EN": "On the evening of June 15, 2019, I recorded the details of my serendipitous encounter with Rachel - in my Mnemosyne notebook - to try to preserve its magic. That day, I felt as if an interstice had opened up and allowed me to slip into the past, into my past. Since then, every time we call or see each other, Rachel gives me the greatest gift of all: she allows me to see my grandmother's eyes again and to sense her comforting warmth.",
+        "FR": "Le soir du 15 juin 2019, j’ai consigné dans mon carnet Mnémosyne les détails de ma rencontre fortuite avec Rachel pour essayer d’en préserver la magie. Ce jour-là, j’ai eu l’impression qu’un insterstice, me permettant de me faufiler dans le passé, dans mon passé, s’était ouvert. Depuis, à chaque fois que nous nous téléphonons ou nous voyons, Rachel me refait le plus cadeau : elle me permet de revoir les yeux de ma grand-mère et de ressentir sa chaleur réconfortante."
+    }],
+[{
+    "type": "image",
+    "image": "/jedinak/blog/carte_rachel_2019.png"
+}]],
+"video": [
+    {
+        "video": "https://cdnapisec.kaltura.com/p/1147242/sp/114724200/embedIframeJs/uiconf_id/9757771/partner_id/1147242?iframeembed=true&playerId=kaltura_player&entry_id=1_eszlj997&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_4w6u41my",
+        "text": [
+            [{
+                "type": "heading",
+                "EN": "PARIS, OCTOBER 2020"
+               }],
+               [{
+                "type": "text",
+                "EN": "Rachel tells us about life at 26 rue Duris where the family apartment was. This place no longer exists today, replaced by new constructions. At her sides, we sneak inside the apartment to meet the people who made it a home. It is through the prism of sensory reminiscences, which are inscribed in her memory, that we listen to her recapture the soul and essence of places and people who have disappeared but who very much existed."
+               }]
+        ]
+    },
+    {
+        "video":"https://cdnapisec.kaltura.com/p/1147242/sp/114724200/embedIframeJs/uiconf_id/9757771/partner_id/1147242?iframeembed=true&playerId=kaltura_player&entry_id=1_2jednlrc&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_jmfv1nf2",
+        "text": [
+            [{
+                "type": "heading",
+                "EN": "360 VIDEOS: PARIS, JULY 11, 2019",
+                "FR": "360 VIDEOS: PARIS, JULY 11, 2019"
+            }],
+            [{
+                "type": "text",
+                "EN": "On July 11, 2019, alongside Rachel, we retraced the geographies of her childhood and the path she followed with her mother and sister Louise on July 16, 1942. In these videos filmed in 360, she thereby walks us to the location where the family apartment, that of her paternal grandparents as well as that of her cousins Paul and Maurice were located. We then enter her old school to end in front of the Bellevilloise. All along the way, we can feel the benevolent gaze of all her departed relatives whom she evokes with great tenderness.",
+                "FR": "On July 11, 2019, alongside Rachel, we retraced the geographies of her childhood and the path she followed with her mother and sister Louise on July 16, 1942. In these videos filmed in 360, she thereby walks us to the location where the family apartment, that of her paternal grandparents as well as that of her cousins Paul and Maurice were located. We then enter her old school to end in front of the Bellevilloise. All along the way, we can feel the benevolent gaze of all her departed relatives whom she evokes with great tenderness."           
+                }],
+            [{
+                "type": "heading",
+                "EN": "26 rue Duris",
+                "FR": "26 rue Duris"
+            }]]
+    },
+    {
+        "video": "https://cdnapisec.kaltura.com/p/1147242/sp/114724200/embedIframeJs/uiconf_id/9757771/partner_id/1147242?iframeembed=true&playerId=kaltura_player&entry_id=1_9jgo0etf&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_8t2cdxmv",
+        "text": [
+            [{
+                "type": "heading",
+                "EN": "360 VIDEOS: PARIS, JULY 11, 2019",
+                "FR": "360 VIDEOS: PARIS, JULY 11, 2019"
+            }],
+            [{
+                "type": "text",
+                "EN": "On July 11, 2019, alongside Rachel, we retraced the geographies of her childhood and the path she followed with her mother and sister Louise on July 16, 1942. In these videos filmed in 360, she thereby walks us to the location where the family apartment, that of her paternal grandparents as well as that of her cousins Paul and Maurice were located. We then enter her old school to end in front of the Bellevilloise. All along the way, we can feel the benevolent gaze of all her departed relatives whom she evokes with great tenderness.",
+                "FR": "On July 11, 2019, alongside Rachel, we retraced the geographies of her childhood and the path she followed with her mother and sister Louise on July 16, 1942. In these videos filmed in 360, she thereby walks us to the location where the family apartment, that of her paternal grandparents as well as that of her cousins Paul and Maurice were located. We then enter her old school to end in front of the Bellevilloise. All along the way, we can feel the benevolent gaze of all her departed relatives whom she evokes with great tenderness."           
+                }],
+            [{
+                "type": "heading",
+                "EN": "15 rue de Tlemcen",
+                "FR": "15 rue de Tlemcen"
+
+            }]]
+    },
+    {
+        "video": "https://cdnapisec.kaltura.com/p/1147242/sp/114724200/embedIframeJs/uiconf_id/9757771/partner_id/1147242?iframeembed=true&playerId=kaltura_player&entry_id=1_w5rv9mbo&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_vbzukx7c",
+        "text": [
+            [{
+                "type": "heading",
+                "EN": "360 VIDEOS: PARIS, JULY 11, 2019",
+                "FR": "360 VIDEOS: PARIS, JULY 11, 2019"
+            }],
+            [{
+                "type": "text",
+                "EN": "On July 11, 2019, alongside Rachel, we retraced the geographies of her childhood and the path she followed with her mother and sister Louise on July 16, 1942. In these videos filmed in 360, she thereby walks us to the location where the family apartment, that of her paternal grandparents as well as that of her cousins Paul and Maurice were located. We then enter her old school to end in front of the Bellevilloise. All along the way, we can feel the benevolent gaze of all her departed relatives whom she evokes with great tenderness.",
+                "FR": "On July 11, 2019, alongside Rachel, we retraced the geographies of her childhood and the path she followed with her mother and sister Louise on July 16, 1942. In these videos filmed in 360, she thereby walks us to the location where the family apartment, that of her paternal grandparents as well as that of her cousins Paul and Maurice were located. We then enter her old school to end in front of the Bellevilloise. All along the way, we can feel the benevolent gaze of all her departed relatives whom she evokes with great tenderness."           
+                }],
+            [{
+                "type": "heading",
+                "EN": "Ecole 9 rue de Tlemcen",
+                "FR": "Ecole 9 rue de Tlemcen"
+
+            }]]
+    },
+    {
+        "video": "https://cdnapisec.kaltura.com/p/1147242/sp/114724200/embedIframeJs/uiconf_id/9757771/partner_id/1147242?iframeembed=true&playerId=kaltura_player&entry_id=1_hs6rgkjk&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_648xsgh5",
+        "text": [
+            [{
+                "type": "heading",
+                "EN": "360 VIDEOS: PARIS, JULY 11, 2019",
+                "FR": "360 VIDEOS: PARIS, JULY 11, 2019"
+            }],
+            [{
+                "type": "text",
+                "EN": "On July 11, 2019, alongside Rachel, we retraced the geographies of her childhood and the path she followed with her mother and sister Louise on July 16, 1942. In these videos filmed in 360, she thereby walks us to the location where the family apartment, that of her paternal grandparents as well as that of her cousins Paul and Maurice were located. We then enter her old school to end in front of the Bellevilloise. All along the way, we can feel the benevolent gaze of all her departed relatives whom she evokes with great tenderness.",
+                "FR": "On July 11, 2019, alongside Rachel, we retraced the geographies of her childhood and the path she followed with her mother and sister Louise on July 16, 1942. In these videos filmed in 360, she thereby walks us to the location where the family apartment, that of her paternal grandparents as well as that of her cousins Paul and Maurice were located. We then enter her old school to end in front of the Bellevilloise. All along the way, we can feel the benevolent gaze of all her departed relatives whom she evokes with great tenderness."           
+                }],
+            [{
+                "type": "heading",
+                "EN": "La Bellevilloise",
+                "FR": "La Bellevilloise"
+
+            }]]
+
+    }
+    ]
+}
+}

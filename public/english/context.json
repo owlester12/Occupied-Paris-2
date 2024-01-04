@@ -1,0 +1,135 @@
+
+    {
+        "title_EN": "HISTORICAL CONTEXT",
+        "title_FR": "CONTEXTE HISTORIQUE",
+        "text_FR": "Afin de mieux cerner le contexte des histoires personnelles rassemblées sur ce site, nous avons sélectionné un serie d’articles sur le site de Yad Vashem et du MV&R. Le MV&R est publication scientifique en ligne spécialisée dans l’étude des massacres, des génocides, et des résistances locales qu’ils génèrent et dont le but est de fournir une information fiable sur des événements qui sont parfois difficiles à documenter et qui demeurent profondément enracinés dans les mémoires individuelles et collectives. Il repose sur un réseau académique interdisciplinaire basé au Centre de Recherches Internationales (CERI) et au Centre d’histoire de Sciences Po, Paris.",
+        "text_EN": "In order to better understand the context of the personal stories collected on this site, we have selected a series of articles from the Mémorial de la Shoah, Yad Vashem and MV&R. The MV&R is an online scientific publication specializing in the study of massacres, genocides, and the local resistance they generate, and whose goal is to provide reliable information on events that are sometimes difficult to document and that remain deeply rooted in individual and collective memories. It relies on an interdisciplinary academic network based in Paris at the Centre de Recherches Internationales (CERI) and the Centre d'histoire de l'Institut Politique, also known as Sciences Po.",
+        "data": [
+    {
+        "type": "both",
+        "url_EN": "https://www.yadvashem.org/holocaust/france.html",
+        "url_FR": "https://www.yadvashem.org/fr/shoah.html",
+        "image": "/context/vashem2.png",
+        "heading_EN": "The Holocaust in France",
+        "heading_FR": "Histoire de la Shoah",
+        "stext_EN": "From the ",
+        "italic-text_EN": "Yad Vashem",
+        "etext_EN": " website",
+        "stext_FR": "",
+        "italic-text_FR": "Yad Vashem",
+        "etext_FR": ""
+
+    }, {
+        "type": "both",
+        "url_EN": "https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/chronology-repression-and-persecution-occupied-france-1940-44.html",
+        "url_FR":"https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/chronology-repression-and-persecution-occupied-france-1940-44.html",
+        "image": "/context/chronology.png",
+        "heading_EN": "Chronology of Repression and Persecution in Occupied France, 1940-44",
+        "heading_FR": "Chronologie : Répression et persécution en France occupée 1940-1944",
+        "stext_EN": "From ",
+        "italic-text_EN": "Sciences Po",
+        "etext_EN": "",
+        "stext_FR": "",
+        "italic-text_FR": "Sciences Po",
+        "etext_FR": ""
+    },
+    {
+        "type": "both",
+        "url_EN": "https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/drancy-camp.html",
+        "url_FR": "https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/drancy-camp.html",
+        "image": "/context/drancy-2.png",
+        "heading_EN": "The Drancy Camp",
+        "heading_FR": "Le camp de Drancy",
+        "stext_EN": "From ",
+        "italic-text_EN": "Sciences Po",
+        "etext_EN": " By Laffitte Michel",
+        "stext_FR": "",
+        "italic-text_FR": "Sciences Po",
+        "etext_FR": ""
+    }, {
+        "type": "both",
+        "url_EN": "https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/va-lodrome-da-hiver-round-july-16-and-17-1942.html",
+        "url_FR": "https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/va-lodrome-da-hiver-round-july-16-and-17-1942.html",
+        "image": "/context/veldrome2.jpg",
+        "heading_EN": "The Vélodrome d'hiver Round-up: July 16 & 17, 1942",
+        "heading_FR": "La rafle du Vélodrome d'hiver, 16-17 juillet 1942",
+        "stext_EN": "From ",
+        "italic-text_EN": "Sciences Po",
+        "etext_EN": " By Laffitte Michel",
+        "stext_FR": "",
+        "italic-text_FR": "Sciences Po",
+        "etext_FR": ""
+    },
+    {
+        "type": "en",
+        "url_EN": "https://www.memorialdelashoah.org/archives-et-documentation/quest-ce-que-la-shoah/dates-cles-de-la-shoah.html",
+        "image": "/context/key_dates.jpg",
+        "heading_EN": "Key Dates of the Holocaust",
+        "stext_EN": "From ",
+        "italic-text_EN": "Mémorial de la Shoah.",
+        "etext_EN": " In French."
+    },
+    {
+        "type": "en",
+        "url_EN": "https://timelineoftheholocaust.org/",
+        "image": "/context/timeline-1.jpeg",
+        "heading_EN": "Timeline of the Holocaust",
+        "italic-text_EN": "From Echoes & Reflections: Teaching the Holocaust",
+        "stext_EN": "",
+        "etext_EN": ""
+    },
+    {
+        "type": "en",
+        "url_EN": "https://echoesandreflections.org/audio_glossary/",
+        "image": "/context/glossary-2.png",
+        "heading_EN": "Glossary",
+        "stext_EN": "",
+        "etext_EN": "",
+        "italic-text_EN": "From Echoes & Reflections: Teaching the Holocaust"
+    },
+    {
+        "type": "en",
+        "url_EN": "https://easteurotopo.org/",
+        "image": "/context/topmap-1.png",
+        "heading_EN": "Topographic Maps of Eastern Europe",
+        "stext_EN": "",
+        "etext_EN": "",
+        "italic-text_EN": "An atlas of the Shtetl"
+    },
+    {
+        "type": "en",
+        "url_EN": "http://archives.paris.fr/_depot_ad75/_depot_arko/articles/1767/0-introduction-perotin-10331-56-1-3-plan-1944-intro_doc.jpg",
+        "image": "/context/metro_map.png",
+        "heading_EN": "Map of the Metro System (1944)",
+        "stext_EN": "",
+        "etext_EN": "",
+        "italic-text_EN": "Archives de Paris"
+
+    },
+    {
+        "type": "fr",
+        "url_FR": "http://archives.paris.fr/r/259/le-metro-parisien-expression-de-l-occupation-allemande-de-la-collaboration-et-de-la-resistance-/",
+        "heading_FR": "Le métro parisien",
+        "stext_FR": "Expression de l'occupation allemande, de lacollaboration et dela résistance",
+        "italic-text_FR": "",
+        "etext_FR": "",
+        "image": "/context/metro.jpg"
+        
+    },
+    
+    {
+        "type": "both",
+        "url_EN": "https://archivesenligne.archives.cg54.fr/archives-en-ligne/rapport-andre-jean-faure?arko_default_62bc6b717f5c4--ficheFocus=",
+        "url_FR": "http://archives.paris.fr/_depot_ad75/_depot_arko/articles/1767/0-introduction-perotin-10331-56-1-3-plan-1944-intro_doc.jpg",
+        "heading_EN": "Report on the camps in the Free and Occupied Zones (1943)",
+        "heading_FR": "Carte du métro (1944)",
+        "image": "/context/jeanfaure.png",
+        "stext_EN": "",
+        "etext_EN": "",
+        "italic-text_EN": "From Archives de Meurthe-et-Moselle",
+        "stext_FR": "",
+        "italic-text_FR": "Mémorial de la Shoah.",
+        "etext_FR": ""
+
+    }]}
+
